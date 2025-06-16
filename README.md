@@ -1,7 +1,11 @@
 ## bonjour
 Hi. I'm Gabriel.
 
+TypeScript-first full stack developer and high school student.
+
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=121&api_domain=hackatime.hackclub.com&theme=prussian&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,git,github,godot,js,linux,nodejs,npm,obsidian,prisma,react,nextjs,postgres,supabase,tailwind,ts,vercel,webstorm)](https://skillicons.dev)
+
 
 ![](/github-metrics.svg)
 <!---
